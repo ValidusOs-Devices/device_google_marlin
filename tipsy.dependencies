@@ -1,8 +1,8 @@
 [
   {
-    "repository": "CarbonROM/android_kernel_google_marlin",
+    "repository": "hellsgod/hells-Core-PXL",
     "target_path": "kernel/google/marlin",
-    "branch": "cr-5.1"
+    "branch": "n-mr2-preview-1"
   },
   {
    "repository": "obsd39/proprietary_vendor_google",
