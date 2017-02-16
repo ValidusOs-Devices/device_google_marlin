@@ -29,7 +29,7 @@ DEVICE_PACKAGE_OVERLAYS += device/google/marlin/marlin/overlay
 
 # display
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.sf.lcd_density=560
+    ro.sf.lcd_density=500
 
 # Audio
 PRODUCT_PROPERTY_OVERRIDES += \
